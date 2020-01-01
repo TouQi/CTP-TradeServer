@@ -1,3 +1,5 @@
+最早的CTP系统性分享之一. 至今仍有参考价值.
+
 # CTP多账户多策略-交易程序
 
 <p data-anchor-id="d480"><code>C++</code> <code>ctp接口</code> <code>程序化交易</code> <code>经验分享</code></p>
